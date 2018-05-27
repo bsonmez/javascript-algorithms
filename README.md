@@ -13,8 +13,8 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 ### Algorithms by Topic
 
 * **Math**
-  *  - [x] [Fibonacci Number](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/fibonacci)
-	*  - [x] [Factorials](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/factorial)
+    - [x] [Fibonacci Number](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/fibonacci)
+	  - [x] [Factorials](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/factorial)
 * **Sets**
 * **String**
 * **Search**
