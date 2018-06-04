@@ -14,12 +14,10 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 * **Math**
   - [x] [Fibonacci Number](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/fibonacci) 
-
-	 [x] [Factorials](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/factorial)
+	- [x] [Factorials](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/factorial)
 * **Sets**
 * **String**
 * **Search**
-
 	- [x] [Binary Search](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/search/binary-search)
 * **Sorting**
 * **Tree**
