@@ -6,6 +6,8 @@ This repository contains JavaScript based examples of many popular algorithms an
 
 Data Structures are the programmatic way of storing data so that data can be used efficiently. More precisely ,a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
+- [x] [Linked List](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/linked-list)
+
 ## Algorithms
 
 Algorithm is an unambiguous specification of how to solve a class of problems. Algorithm is a set of rules that precisely defines a sequence of operations.
