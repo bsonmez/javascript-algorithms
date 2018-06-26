@@ -10,6 +10,7 @@ Data Structures are the programmatic way of storing data so that data can be use
 
 - [x] [Stack](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/stack)
 
+- [x] [Hash Table](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/hash-table)
 ## Algorithms
 
 Algorithm is an unambiguous specification of how to solve a class of problems. Algorithm is a set of rules that precisely defines a sequence of operations.
