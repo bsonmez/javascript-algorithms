@@ -36,10 +36,6 @@ An algorithmic paradigms are general approaches to the construction of efficient
 
 ## Useful Information
 
-### References
-
-[▶ Data Structures and Algorithms on YouTube](https://www.youtube.com/playlist?list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
-
 ### Big O Notation
 
 Order of growth of algorithms specified in Big O notation.
