@@ -16,5 +16,6 @@ describe('trialDivison', () => {
     expect(trialDivision(200)).toBeFalsy();
     expect(trialDivision(400)).toBeFalsy();
     expect(trialDivision(401)).toBeTruthy();
+    expect(trialDivision(1001234123412411)).toBeFalsy();
   });
 });
