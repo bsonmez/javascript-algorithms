@@ -23,7 +23,10 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 	- [x] [Factorials](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/factorial)
 
-	- [x] [Primality Test](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/primality-test) 
+	- [x] [Primality Test](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/primality-test)
+
+	- [x] [Euclidean Algorithm](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/euclidean-algorithm)
+
 * **Sets**
 * **String**
 * **Search**
