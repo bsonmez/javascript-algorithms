@@ -19,13 +19,15 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 * **Math**
 
-  - [x] [Fibonacci Number](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/fibonacci) 
+- [x] [Fibonacci Number](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/fibonacci) 
 
-	- [x] [Factorials](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/factorial)
+- [x] [Factorials](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/factorial)
 
-	- [x] [Primality Test](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/primality-test)
+- [x] [Primality Test](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/primality-test)
 
-	- [x] [Euclidean Algorithm](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/euclidean-algorithm)
+- [x] [Euclidean Algorithm](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/euclidean-algorithm)
+
+- [x] [Least Common Multiple](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/least-common-multiple)
 
 * **Sets**
 * **String**
