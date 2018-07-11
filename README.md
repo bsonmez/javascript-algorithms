@@ -38,7 +38,7 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 	- [x] [Merge Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/merge-sort)
 
-	- [x] [Insertion Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/insetion-sort)
+	- [x] [Insertion Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/insertion-sort)
 * **Tree**
 * **Graph**
 * **Uncategorized**
