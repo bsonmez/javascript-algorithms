@@ -40,6 +40,7 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 	- [x] [Insertion Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/insertion-sort)
 * **Tree**
+	- [x] [Binary tree](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/tree/)
 * **Graph**
 * **Uncategorized**
 
