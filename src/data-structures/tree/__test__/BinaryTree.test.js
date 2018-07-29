@@ -54,13 +54,13 @@ describe('Binary Tree', () => {
 
     expect(root.traverseInOrder()).toEqual([2, 1, 3]);
 
-    expect(root.remove(root.right)).toBeTruthy();
+    expect(root.removeChild(root.right)).toBeTruthy();
     expect(root.traverseInOrder()).toEqual([2, 1]);
 
-    expect(root.remove(root.left)).toBeTruthy();
+    expect(root.removeChild(root.left)).toBeTruthy();
     expect(root.traverseInOrder()).toEqual([1]);
 
-    expect(root.remove(root.left)).toBeFalsy();
+    expect(root.removeChild(root.left)).toBeFalsy();
     expect(root.traverseInOrder()).toEqual([1]);
   });
 
@@ -73,13 +73,13 @@ describe('Binary Tree', () => {
 
     expect(root.traverseInOrder()).toEqual([2, 1, 3]);
 
-    expect(root.remove(root.right)).toBeTruthy();
+    expect(root.removeChild(root.right)).toBeTruthy();
     expect(root.traverseInOrder()).toEqual([2, 1]);
 
-    expect(root.remove(root.left)).toBeTruthy();
+    expect(root.removeChild(root.left)).toBeTruthy();
     expect(root.traverseInOrder()).toEqual([1]);
 
-    expect(root.remove(root.left)).toBeFalsy();
+    expect(root.removeChild(root.left)).toBeFalsy();
     expect(root.traverseInOrder()).toEqual([1]);
   });
 
@@ -113,7 +113,7 @@ describe('Binary Tree', () => {
     expect(root.balance).toBe(2);
   });
 
-  it('should remove node', () => {
+  it('should replace node', () => {
     const root = new BinaryTree(1);
     const left = new BinaryTree(2);
     const right = new BinaryTree(3);

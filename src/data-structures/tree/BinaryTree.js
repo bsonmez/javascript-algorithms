@@ -39,7 +39,7 @@ export default class BinaryTree {
     return this;
   }
 
-  remove(node) {
+  removeChild(node) {
     if (this.left && this.left === node) {
       this.left = null;
       return true;
