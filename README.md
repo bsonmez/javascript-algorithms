@@ -11,6 +11,10 @@ Data Structures are the programmatic way of storing data so that data can be use
 - [x] [Stack](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/stack)
 
 - [x] [Hash Table](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/hash-table)
+
+- [x] [Binary tree](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/tree/)
+
+- [x] [Binary Search tree](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/binary-search-tree/)
 ## Algorithms
 
 Algorithm is an unambiguous specification of how to solve a class of problems. Algorithm is a set of rules that precisely defines a sequence of operations.
@@ -40,7 +44,6 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 	- [x] [Insertion Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/insertion-sort)
 * **Tree**
-	- [x] [Binary tree](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/tree/)
 * **Graph**
 * **Uncategorized**
 
