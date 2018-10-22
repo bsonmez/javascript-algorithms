@@ -48,6 +48,8 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
   - [x] [Bubble Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/bubble-sort)
 
   - [x] [Shell Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/shell-sort)
+
+  - [x] [Selection Sort](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sorting/selection-sort)
 * **Tree**
 * **Graph**
 * **Uncategorized**
