@@ -12,6 +12,8 @@ Data Structures are the programmatic way of storing data so that data can be use
 
 - [x] [Hash Table](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/hash-table)
 
+* [Min Heap](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/heap/)
+
 * [Tree](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/tree)
 	- [x] [Binary tree](https://github.com/bsonmez/javascript-algorithms/tree/master/src/data-structures/tree/)
 
