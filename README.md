@@ -42,6 +42,8 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 - [x] [Least Common Multiple](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/math/least-common-multiple)
 
 * **Sets**
+	- [x] [Permutations](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/sets/permutations)
+
 * **String**
 * **Search**
 	- [x] [Binary Search](https://github.com/bsonmez/javascript-algorithms/tree/master/src/algorithms/search/binary-search)
