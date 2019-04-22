@@ -1,7 +1,6 @@
 import LinkedList from '../LinkedList';
 
 describe('LinkedList', () => {
-
   // Creation.
   it('should create new empty linkedlist', () => {
     const linkedList = new LinkedList();

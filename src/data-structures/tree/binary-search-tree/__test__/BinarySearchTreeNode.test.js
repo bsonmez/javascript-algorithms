@@ -108,8 +108,8 @@ describe('BinarySearchTreeNode', () => {
 
     bst.remove(30);
     expect(bst.toString()).toBe('10,40,50,60');
-		expect(bst.value).toBe(40);
-		expect(bst.find(40).left.value).toBe(10);
+    expect(bst.value).toBe(40);
+    expect(bst.find(40).left.value).toBe(10);
     expect(bst.find(40).right.value).toBe(60);
   });
 });
